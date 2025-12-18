@@ -182,6 +182,12 @@ Software Engineering Student At Binus University | Full Stack Developer
 * Portfolio: [vinndev.vercel.app](https://vinndev.vercel.app)
 * LinkedIn : [alvin-nabil-8972792a7](www.linkedin.com/in/alvin-nabil-8972792a7)
 
+---
+
+## 📄 License
+
+This project is open source and available for learning and personal use.
+
 
 ---
 
