@@ -179,6 +179,8 @@ They can be generated locally using the setup steps above.
 Software Engineering Student
 
 * GitHub: [alvinnabil](https://github.com/alvinnabil)
+* Portfolio: [vinndev.vercel.app](https://vinndev.vercel.app)
+* LinkedIn : [Alvin Nabil](www.linkedin.com/in/alvin-nabil-8972792a7)
 
 ---
 
