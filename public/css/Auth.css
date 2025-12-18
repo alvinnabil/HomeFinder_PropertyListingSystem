@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #f8f9fd;
+  color: #222;
+}
+
+/* Navbar */
+.navbar {
+  padding: 15px 8%;
+  border-bottom: 1px solid #eaeaea;
+  background: #fff;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.logo span {
+  color: #007bff;
+}
+
+/* Auth Container */
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 80px);
+}
+
+.auth-box {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  padding: 40px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.auth-box h2 {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.auth-box p {
+  margin-bottom: 20px;
+  color: #666;
+  font-size: 14px;
+}
+
+/* Form Styles */
+.form-group {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  display: block;
+  margin-bottom: 6px;
+}
+
+input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 14px;
+}
+
+input:focus {
+  border-color: #007bff;
+}
+
+/* Button */
+.btn-primary {
+  width: 100%;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 12px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 10px;
+  transition: 0.2s;
+}
+
+.btn-primary:hover {
+  background: #0056d2;
+}
+
+/* Switch text */
+.switch {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #666;
+}
+
+.switch a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 600;
+}
