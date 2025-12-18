@@ -176,11 +176,12 @@ They can be generated locally using the setup steps above.
 ## 👨‍💻 Author
 
 **Alvin Nabil Thoriq**
-Software Engineering Student At Binus University
+Software Engineering Student At Binus University | Full Stack Developer
 
 * GitHub: [alvinnabil](https://github.com/alvinnabil)
 * Portfolio: [vinndev.vercel.app](https://vinndev.vercel.app)
-* LinkedIn : [Alvin Nabil](www.linkedin.com/in/alvin-nabil-8972792a7)
+* LinkedIn : [alvin-nabil-8972792a7](www.linkedin.com/in/alvin-nabil-8972792a7)
+
 
 ---
 
